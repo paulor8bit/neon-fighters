@@ -1,0 +1,9 @@
+[Characters]
+ayla, stages/neon-garden.def, order=1
+rubi, stages/neon-garden.def, order=1
+randomselect
+[ExtraStages]
+stages/neon-garden.def
+[Options]
+arcade.maxmatches = 2,0,0,0,0,0,0,0,0,0
+team.maxmatches = 2,0,0,0,0,0,0,0,0,0

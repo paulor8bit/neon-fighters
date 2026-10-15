@@ -1,0 +1,7 @@
+Ferramenta: imagegen integrado; referência local: reference/modelo.png.
+
+AYLA: reproduzir a identidade exata da referência — cabelo curto pêssego/rosado com topete, chifres de carneiro enrolados, olhos roxos grandes, moletom marfim com cordões escuros, shorts, meias e tênis. Pixel art chibi com contorno berinjela e paleta pastel. Atlas transparente 4x4: quatro poses de espera, quatro de caminhada, preparação de soco, soco com magia rosa, chute lateral, defesa agachada, pulo, reação ao golpe, derrota sentada e vitória alegre. Personagem inteira em cada célula; rosto e roupas consistentes; vista lateral para a direita.
+
+RUBI: o mesmo estilo chibi pastel da referência. Segunda personagem original com cabelo prateado, pequeno rabo lateral com fita vinho, olhos rubi, moletom rosa antigo, shorts e meias escuras e tênis claros; sem chifres. Atlas transparente 4x4 com as mesmas dezesseis poses e margens para recorte.
+
+CENÁRIO: pátio de cerejeiras ao luar, pixel art chibi pastel em lavanda e pêssego, contornos berinjela, pequenas lanternas e telhados distantes. Piso horizontal livre no quarto inferior para luta. Sem personagens, textos ou interface.

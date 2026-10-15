@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Neon Fighters</string>
+    <string name="exit_str">Exit</string>
+    <string name="extraction_error_title">Extraction Error</string>
+    <string name="first_run_dialog_msg">Extracting game assets… Please wait.</string>
+    <string name="first_run_dialog_title">First Run</string>
+    <string name="game_folder_key">game_folder</string>
+    <string name="game_folder_str">Select Game Folder</string>
+    <string name="prefs_key">IkemenPrefs</string>
+    <string name="update_error_title">Update Error</string>
+    <string name="updating_files_msg">Please wait while engine files are synchronized…</string>
+    <string name="updating_files_title">Updating Files</string>
+</resources>

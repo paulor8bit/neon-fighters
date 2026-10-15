@@ -1,0 +1,9 @@
+Built-in imagegen was used for three original game assets; transparent alpha for both atlases.
+
+AYLA — 4x4 sprite atlas, transparent background, authentic beautiful 1990s 16-bit arcade pixel art. Same original attractive adult woman martial artist age 26, long dark violet ponytail, teal martial arts jacket, dark blue full length pants, golden belt, fingerless gloves and boots. Side view facing right. Four idle frames, four walk frames, punch windup, extended punch, high kick, crouch guard, jump, hit recoil, knockout, victory. Full body within each cell, crisp pixel clusters, consistent identity.
+
+RUBI — 4x4 transparent sprite atlas, authentic crisp 1990s 16-bit arcade pixel art. Same original beautiful adult woman fighter age 28, athletic, short flowing silver hair, red fitted combat jacket over black shirt, black full length pants, red boots and gloves. Side view facing right. Four idle frames, four walk frames, punch windup, extended punch, high kick, crouch guard, jump, hit recoil, knockout, victory. Full body within each cell, consistent clothing and identity.
+
+STAGE — Beautiful side-view 2D fighting game arena, authentic 16-bit 1990s arcade pixel art, wide landscape. Nighttime rooftop Japanese garden overlooking richly detailed neon city, purple blue night sky, glowing moon, distant skyscrapers, cherry blossoms at outer sides, lanterns. Lower quarter flat continuous stone terrace combat floor. Clear central fighting space. Sharp pixel clusters, jewel tone cyan magenta and golden lights. No people, UI, text or logos.
+
+Final assets were sliced and resized with nearest-neighbor sampling for engine integration. Original generated images are preserved alongside the integrated assets.

@@ -1,0 +1,47 @@
+[Info]
+name = "Jardim Neon"
+displayname = "Jardim Neon"
+author = "Neon Fighters"
+mugenversion = 1.1
+[Camera]
+startx = 0
+starty = 0
+boundleft = 0
+boundright = 0
+boundhigh = -20
+boundlow = 0
+verticalfollow = .1
+tension = 50
+[PlayerInfo]
+p1startx = -70
+p1starty = 0
+p2startx = 70
+p2starty = 0
+p1facing = 1
+p2facing = -1
+leftbound = -145
+rightbound = 145
+[Bound]
+screenleft = 15
+screenright = 15
+[StageInfo]
+zoffset = 200
+autoturn = 1
+resetBG = 1
+localcoord = 320,240
+[Shadow]
+intensity = 130
+color = 15,5,35
+yscale = .25
+[Reflection]
+intensity = 0
+[Music]
+[BGdef]
+spr = neon-garden.sff
+bgclearcolor = 12,8,30
+[BG Rooftop]
+type = normal
+spriteno = 8000,0
+start = -160,0
+delta = 1,1
+scalestart = .5,.5

@@ -1,0 +1,34 @@
+# Generated packages and engine binaries
+*.apk
+*.apk.idsig
+*.keystore
+*.jks
+*.dex
+*.so
+*.pyc
+__pycache__/
+/backups/
+/engine/
+/package/
+/.cache/
+/releases/
+/android/build/
+/android/dist/
+/android/original/
+/android/lib/
+/android/unknown/
+# Local inspection, upstream downloads and device diagnostics
+/tools/*.log
+/tools/*.json
+/tools/*.zip
+/tools/*.java
+/tools/*.go
+/tools/*.gradle
+/tools/device-log.txt
+/tools/manifest.txt
+/art/v1-arcade/
+# One-off maintenance tools from the original device
+/tools/sign_package.py
+/tools/sync_installed_assets.py
+/tools/startup_fix.py
+/LEIA-ME.txt

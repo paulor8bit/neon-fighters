@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <id name="btn_a" />
+    <id name="btn_b" />
+    <id name="btn_back" />
+    <id name="btn_c" />
+    <id name="btn_d" />
+    <id name="btn_start" />
+    <id name="btn_w" />
+    <id name="btn_x" />
+    <id name="btn_y" />
+    <id name="btn_z" />
+    <id name="button_grid" />
+    <id name="dp_down" />
+    <id name="dp_left" />
+    <id name="dp_right" />
+    <id name="dp_up" />
+    <id name="dpad_container" />
+    <id name="left_analog" />
+    <id name="right_analog" />
+</resources>
